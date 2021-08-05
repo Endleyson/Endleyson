@@ -4,7 +4,7 @@
   
   * :sunglasses: I live :brazil: , Volta Redonda - RJ
   * :man_technologist: I'm interested in evolving professionally as a developer and sharing knowledge with those who are part of my trajectory.
-  * :writing_hand: I’m currently learning HTML, CSS, Javascript, ReactJS.
+  * :writing_hand: I’m currently learning HTML, CSS, Javascript, ReactJS & Flutter
 
 
 # Connect Whith Me:
