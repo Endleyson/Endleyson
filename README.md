@@ -42,8 +42,12 @@ Minha meta é tornar-me um desenvolvedor Fullstack, e para alcançar iniciei os 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endleyson)](https://github.com/endleyson/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=endleyson&show_icons=true&theme=radical)
+<div>
+  <a href="https://github.com/endleyson">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endleyson&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=endleyson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ </div>
+
 
 <!--
 **Endleyson/Endleyson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
