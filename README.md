@@ -48,8 +48,7 @@ Minha meta é tornar-me um desenvolvedor Fullstack, e para alcançar iniciei os 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=endleyson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  </div>
 <hr />
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
+  
 <!--
 **Endleyson/Endleyson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
