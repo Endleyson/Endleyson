@@ -4,14 +4,14 @@
   
   * :sunglasses: I live :brazil: , Volta Redonda - RJ
   * :man_technologist: I'm interested in evolving professionally as a developer and sharing knowledge with those who are part of my trajectory.
-  * :writing_hand: I’m currently learning HTML, CSS, Javascript, ReactJS & Flutter
+  * :writing_hand: I’m currently learning Flutter & HTML, CSS, Javascript, ReactJS 
 
 
-# Connect Whith Me:
+# Saudações 🖖:
 
-*Olá, me chamo Endleyson Reis, tenho 35 anos, sou formado Tecnico em Eletrônica e Bacharel em Sistemas de Informação, estou em transição de carreira e atualmente trabalho como Técnico Suporte Sistemas II na T-Systems do Brasil, cuidando de todo processo ShopFloor da fabrica de caminhões da Volksvagen.*
+*Olá, me chamo Endleyson Reis, tenho 35 anos, sou formado Técnico em Eletrônica e Bacharel em Sistemas de Informação, estou em transição de carreira e atualmente trabalho como Técnico Suporte Sistemas II na [T-Systems do Brasil](https://www.t-systems.com/br/pt), cuidando de todo processo ShopFloor da [Volkswagen Caminhões e Ônibus](https://www.vwco.com.br/institucional)*
 
-*Minha meta é tornar-me um desenvolvedor Fullstack, e para alcançar iniciei os estudos na área de Frontend seguindo a trilha de HTML, CSS, JavaScript e ReactJs. No Mobile tenho seguido na linha. Flutter Caso queira interagir, entre em contato comigo através das minhas redes sociais apresentadas abaixo:*
+*Minha meta é tornar-me um desenvolvedor Fullstack, e para alcançar iniciei os estudos na área de Frontend seguindo a trilha de HTML, CSS, JavaScript e ReactJs, porém no momento meu foco é o Flutter para o desenvolvimento mobile. Caso queira interagir, entre em contato comigo através das minhas redes sociais apresentadas abaixo:*
 
 <a href="https://www.linkedin.com/in/endleyson/" target="_blank">
   <img align="center" alt="endleyson-linkedin" width="50" src="https://image.flaticon.com/icons/png/512/124/124011.png" style="max-width:100%;">
@@ -32,12 +32,13 @@
 <hr />
   
 # My Skills
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" widtf="50" height="50" style="max-width:100%;margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" widtf="50" height="50" style="max-width:100%;margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" widtf="50" height="50" style="max-width:100%;margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" widtf="50" height="50" style="max-width:100%;margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" widtf="50" height="50" style="max-width:100%;margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" widtf="50" height="50" style="max-width:100%;margin: 0 2px;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" widtf="50" height="50" style="max-width:100%;margin: 0 2px;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" widtf="50" height="50" style="max-width:100%;margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" widtf="50" height="50" style="max-width:100%;margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" widtf="50" height="50" style="max-width:100%;margin: 0 2px;"></img>
 
