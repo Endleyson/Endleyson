@@ -9,25 +9,48 @@
 
 # Saudações 🖖:
 
-*Olá, me chamo Endleyson Reis, tenho 35 anos, sou formado Técnico em Eletrônica e Bacharel em Sistemas de Informação, atualmente trabalho como Analista Mobile na [Pmovel](https://pmovel.com/), utilizando o framework Flutter para o desenvolvimento da aplicação.*
+*Olá, me chamo Endleyson Reis, tenho 36 anos, sou formado Técnico em Eletrônica e Bacharel em Sistemas de Informação, atualmente trabalho como Analista Mobile na [Pmovel](https://pmovel.com/), utilizando o framework Flutter para o desenvolvimento da aplicação.*
 
-*Meu foco no momento é me especializar em Flutter para o desenvolvimento mobile, e minha meta é me tornar um desenvolvedor Fullstack. Caso queira interagir, entre em contato comigo através das minhas redes sociais apresentadas abaixo:*
+*As imgens a seguir são da aplicação [Pmovel](https://pmovel.com/):*
 
+<div>
+<img align="center" alt="login" width="150" src="https://user-images.githubusercontent.com/52048005/166159881-12ef27fb-dabe-41d0-897c-54129978b876.jpeg" style="max-width:100%;">
+  <img align="center" alt="login" width="150" src="https://user-images.githubusercontent.com/52048005/166159759-e2b9fa6f-d316-49fe-b1f3-2765397a27d4.jpeg" style="max-width:100%;">
+  <img align="center" alt="login" width="150" src="https://user-images.githubusercontent.com/52048005/166159760-ce7b11de-681b-45f0-9980-a4d647e36c95.jpeg" style="max-width:100%;">
+  <img align="center" alt="login" width="150" src="https://user-images.githubusercontent.com/52048005/166159762-3a23c1ba-a71d-4ba9-923c-f48408f50099.jpeg" style="max-width:100%;">
+  <img align="center" alt="login" width="150" src="https://user-images.githubusercontent.com/52048005/166159755-5c8f58cc-027d-4e40-96ef-4c5321719a4c.jpeg" style="max-width:100%;">
+
+  <img align="center" alt="login" width="150" src="https://user-images.githubusercontent.com/52048005/166160514-5ac36845-148f-478a-b870-83c2b0c0b474.jpeg" style="max-width:100%;">
+<img align="center" alt="login" width="150" src="https://user-images.githubusercontent.com/52048005/166159752-d1109e98-92b6-4572-a4d3-a4866ff7a8f0.jpeg" style="max-width:100%;">
+  <img align="center" alt="login" width="150" src="https://user-images.githubusercontent.com/52048005/166159763-9d26d824-8513-4bce-9ca2-6ef7195e1532.jpeg" style="max-width:100%;">
+  <img align="center" alt="login" width="150" src="https://user-images.githubusercontent.com/52048005/166160510-11edcd21-93cc-402b-b31c-a5e429812828.jpeg" style="max-width:100%;">
+  <img align="center" alt="login" width="150" src="https://user-images.githubusercontent.com/52048005/166160513-b36f5f28-b0bd-4175-b7a0-4f666eae8e2e.jpeg" style="max-width:100%;">
+  <img align="center" alt="login" width="150" src="https://user-images.githubusercontent.com/52048005/166160512-f8df1313-9718-4a71-9e57-92298332b62c.jpeg" style="max-width:100%;">
+  <img align="center" alt="login" width="150" src="https://user-images.githubusercontent.com/52048005/166161178-c08f509a-3a6c-471d-ab38-89a2b1539df1.jpeg" style="max-width:100%;">
+</div>
+</br>
+
+*Meu foco no momento é me especializar em Flutter para o desenvolvimento mobile, e minha meta é ser um desenvolvedor Fullstack. Caso queira interagir, entre em contato comigo através das minhas redes sociais apresentadas abaixo:*
+
+
+
+<div>
 <a href="https://www.linkedin.com/in/endleyson/" target="_blank">
-  <img align="center" alt="endleyson-linkedin" width="50" src="https://image.flaticon.com/icons/png/512/124/124011.png" style="max-width:100%;">
+  <img align="center" alt="endleyson-linkedin" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 
 <a href="https://www.instagram.com/endleyson/" target="_blank">
-  <img  align="center"  src="https://image.flaticon.com/icons/png/512/174/174855.png" width="50" style="max-width:100%;"/>
+  <img  align="center"  src="https://img.icons8.com/cute-clipart/344/instagram-new.png" width="50" style="max-width:100%;"/>
 </a>
 
 <a href="https://www.facebook.com/endleyson/" target="_blank">
-  <img  align="center"  src="https://image.flaticon.com/icons/png/128/733/733547.png" width="50" style="max-width:100%;"/>
+  <img  align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50" style="max-width:100%;"/>
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=5524993091882&text=Ol%C3%A1.%20venho%20do%20github.%20Gostaria%20de%20falar%20com%20voc%C3%AA!" target="_blank" >
-  <img  align="center" src="https://image.flaticon.com/icons/png/512/220/220236.png" width="50" style="max-width:100%;"/> 
+  <img  align="center" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-whatsapp-social-media-justicon-flat-justicon.png" width="50" style="max-width:100%;"/> 
 </a>
+  </div>
 
 <hr />
   
