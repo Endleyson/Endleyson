@@ -10,6 +10,7 @@
 # Saudações 🖖:
 
 *Olá, me chamo Endleyson Reis, tenho 36 anos, sou formado Técnico em Eletrônica e Bacharel em Sistemas de Informação, atualmente trabalho como Analista Mobile na [Pmovel](https://ola.pmovel.com.br/), utilizando o framework Flutter para o desenvolvimento da aplicação.*
+*Também atuo como Devenvolvedor Flutter voluntariado [Is It Safe?](https://isitsafe.com.br/).*
 
 *As imgens a seguir são da aplicação [Pmovel](https://ola.pmovel.com.br/):*
 
