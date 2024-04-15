@@ -4,23 +4,17 @@
   
   * :sunglasses: I live :brazil: , Volta Redonda - RJ
   * :man_technologist: I'm interested in evolving professionally as a developer and sharing knowledge with those who are part of my trajectory.
-  * :writing_hand: I’m currently learning Flutter.
+  * 📱 Flutter Developer.
 
 
 # Saudações 🖖:
 
-*Olá, me chamo Endleyson Reis, tenho 36 anos, sou formado Técnico em Eletrônica e Bacharel em Sistemas de Informação, atualmente trabalho como Analista Mobile (Dev) na [Pmovel](https://ola.pmovel.com.br/), utilizando o framework Flutter para o desenvolvimento da aplicação.*
-*Atuei como Devenvolvedor Flutter voluntariado [Is It Safe?](https://isitsafe.com.br/).*
+*Olá, me chamo Endleyson Reis, tenho 38 anos, sou formado Técnico em Eletrônica e Bacharel em Sistemas de Informação, atualmente trabalho como Analista Mobile (Dev) na [Pmovel](https://ola.pmovel.com.br/), utilizando o framework Flutter para o desenvolvimento da aplicação.*
+*Atuei como Devenvolvedor Flutter voluntário no [Is It Safe?](https://isitsafe.com.br/).*
 
-*As imgens a seguir são da aplicação [Pmovel](https://ola.pmovel.com.br/):*
+*Estes são os Apps que sou responsável pela manutenção e criação de novas features [Pmovel App](https://play.google.com/store/apps/details?id=com.pontomovel&hl=pt_BR&gl=US) e o [Pface](https://play.google.com/store/apps/details?id=com.pmovel.pface&hl=pt_BR&gl=US) *
 
-<div>
-<img align="center" alt="login" width="150" src="https://user-images.githubusercontent.com/52048005/166159881-12ef27fb-dabe-41d0-897c-54129978b876.jpeg" style="max-width:100%;">
-  <img align="center" alt="login" width="150" src="https://user-images.githubusercontent.com/52048005/166159759-e2b9fa6f-d316-49fe-b1f3-2765397a27d4.jpeg" style="max-width:100%;">
-  <img align="center" alt="login" width="150" src="https://user-images.githubusercontent.com/52048005/166159760-ce7b11de-681b-45f0-9980-a4d647e36c95.jpeg" style="max-width:100%;">
-  <img align="center" alt="login" width="150" src="https://user-images.githubusercontent.com/52048005/166159762-3a23c1ba-a71d-4ba9-923c-f48408f50099.jpeg" style="max-width:100%;">
-    
-</div>
+
 </br>
 
 *Meu foco no momento é me especializar em Flutter para o desenvolvimento mobile, e minha meta é ser um desenvolvedor Fullstack. Caso queira interagir, entre em contato comigo através das minhas redes sociais apresentadas abaixo:*
