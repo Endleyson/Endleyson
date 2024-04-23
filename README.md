@@ -30,10 +30,6 @@
   <img  align="center"  src="https://img.icons8.com/cute-clipart/344/instagram-new.png" width="50" style="max-width:100%;"/>
 </a>
 
-<a href="https://www.facebook.com/endleyson/" target="_blank">
-  <img  align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="50" style="max-width:100%;"/>
-</a>
-
 <a href="https://api.whatsapp.com/send?phone=5524993091882&text=Ol%C3%A1.%20venho%20do%20github.%20Gostaria%20de%20falar%20com%20voc%C3%AA!" target="_blank" >
   <img  align="center" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-whatsapp-social-media-justicon-flat-justicon.png" width="50" style="max-width:100%;"/> 
 </a>
@@ -48,14 +44,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" widtf="50" height="50" style="max-width:100%;margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" widtf="50" height="50" style="max-width:100%;margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" widtf="50" height="50" style="max-width:100%;margin: 0 2px;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" widtf="50" height="50" style="max-width:100%;margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" widtf="50" height="50" style="max-width:100%;margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" widtf="50" height="50" style="max-width:100%;margin: 0 2px;"></img>
 
-![Snake animation](https://github.com/endleyson/endleyson/blob/output/github-contribution-grid-snake.svg)
+
   <a href="https://github.com/endleyson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endleyson&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=endleyson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ 
   
  
 <hr />
